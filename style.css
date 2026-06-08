@@ -16,3 +16,8 @@ td {
     border: 1px solid #ccc;
     background-color: #f9f9f9;
 }
+td {
+    text-align: center;
+    font-weight: bold;
+    background-color: #e0f7fa;
+}
