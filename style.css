@@ -1,5 +1,6 @@
-h1 {
-    color: darkblue;
-    font-family: Arial, sans-serif;
-    text-align: center;
+th {
+    background-color: #333;
+    color: white;
+    padding: 12px;
+    font-size: 18px;
 }
