@@ -21,3 +21,11 @@ td {
     font-weight: bold;
     background-color: #d1c4e9;
 }
+footer a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+footer a:hover {
+    color: #ff6600;
+}
